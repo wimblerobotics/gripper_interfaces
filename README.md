@@ -1,1 +1,1 @@
-# gripper_msgs
+# gripper_intefaces
